@@ -1,0 +1,27 @@
+#btn-white{
+  background-color: white;
+  padding: 2rem;
+
+}
+
+#btn-black{
+  background-color: black;
+  padding: 2rem;
+}
+
+.main{
+  position: absolute;
+  left:5rem;
+  top:3rem;
+  height:auto;
+  /* padding:10rem 8rem; */
+  background-color: antiquewhite;
+}
+
+.box-table{
+  padding:2rem 3rem;
+}
+
+.btn{
+  padding: 2rem;
+}
